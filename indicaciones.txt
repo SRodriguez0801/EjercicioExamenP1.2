@@ -1,0 +1,12 @@
+Pregunta 210 pts
+Una tienda necesita ver todos sus productos, ellos ya tiene la API en la que trae el listado de productos, ellos necesitan una página en donde se vea cada uno de los productos que ellos tienen actualmente, para ello se solicita lo siguiente:
+1.	Consumir dicha API de https://fakestoreapi.com/products
+2.	Mostrar las siguientes propiedades: title, price, description, category e image
+3.	Usar el componente card de bootstrap para una mejor visualización del detalle del producto.
+4.	Queda a su criterio el diseño y orden de cada propiedad a visualizarse en la página
+ 
+Criterios de evaluación:
+1.	Consumo de la API (4%)
+2.	Diseño y funcionalidad de la página (5%)
+3.	Uso de bootstrap (1%)
+Crear un repositorio con nombre EjercicioExamenP1.2, asegurarse que el repositorio esté público para poder revisarlo, también adjuntar la url de su repositorio
